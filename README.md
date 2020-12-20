@@ -5,3 +5,5 @@
 `nuxt-link`
 
 `clamp`
+
+`vue-awesome-swiper`
