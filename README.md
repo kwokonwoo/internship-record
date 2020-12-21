@@ -7,3 +7,5 @@
 `clamp`
 
 `vue-awesome-swiper`
+
+`z-index`
