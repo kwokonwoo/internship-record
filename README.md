@@ -9,3 +9,5 @@
 `vue-awesome-swiper`
 
 `z-index`
+
+`flex`
